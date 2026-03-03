@@ -18,7 +18,7 @@ public class hellomirza {
         System.out.println("- UN observance: World Wildlife Day (observed on March 3)");
         System.out.println("- Zodiac sign: Pisces (Feb 19 - Mar 20)");
         System.out.println("- Notes: 3 March is the 62nd day of a non-leap year.");
-                 System.out.println("- New line is adding in the after the trigger is on.");
+         System.out.println("- New line is adding in the after the trigger is on  lets see the automation.");
 
     }
 }
